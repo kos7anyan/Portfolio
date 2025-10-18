@@ -1,0 +1,41 @@
+{
+  "header": {
+    "welcome": "Welcome to MeshMind",
+    "subtext": "Where design, structure, and imagination merge into form.",
+    "button": "View Projects"
+  },
+  "about": {
+    "title": "About Me",
+    "text": "I’m Hayk Kostanyan — a 3D artist and visual designer passionate about bringing imagination into digital form.\nMeshMind is my personal creative lab, where I explore form, light, and storytelling through 3D design.",
+    "cv": "Download CV"
+  },
+  "projects": {
+    "title": "Projects",
+    "cybercity_title": "CyberCity Environment",
+    "cybercity_desc": "A futuristic cityscape built for Unreal Engine.",
+    "project_type": "Type",
+    "software": "Software"
+  },
+  "blog": {
+    "title": "Blog",
+    "read_more": "Read more"
+  },
+  "contact": {
+    "title": "Let’s collaborate",
+    "subtext": "Have a project in mind? Let’s bring it to life.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Submit"
+  },
+  "footer": {
+    "copyright": "© MeshMind by Hayk Kostanyan | All rights reserved"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "blog": "Blog",
+    "contact": "Contact"
+  }
+}
